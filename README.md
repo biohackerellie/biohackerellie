@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on automation systems, I currently work in K-12 education so I love working to improve systems for that. 
 - 📫 How to reach me: 
 -   ellie@epklabs.com
--   epklabs.com
+-   https://epklabs.com
 
 <!---
 biohackerellie/biohackerellie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
