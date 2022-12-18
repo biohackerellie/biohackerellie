@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biohackerellie
+- 👋 Hi, I’m Ellie. Call me El
 - 👀 I’m interested in cloud computing, kubernetes, VMs, linux, and well anything in tech really
 - 🌱 I’m currently learning azure, redhat, javascript, powershell, bash
 - 💞️ I’m looking to collaborate on automation systems, I currently work in K-12 education so I love working to improve systems for that. 
