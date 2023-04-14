@@ -23,5 +23,3 @@ Welcome to my Github page! I'm Ellie, an IT Systems Administrator, react develop
 <img width="50%" align="right" src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biohackerellie)](https://github.com/anuraghazra/github-readme-stats) />
 
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-
