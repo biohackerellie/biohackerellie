@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ellie-kerns-ab1328a0/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ellie@epklabs.com)
 
-Welcome to my Github page! I'm Ellie, an IT Systems Administrator, react developer, and python enthusiast with 10 years in the industry.
+Welcome to my Github page! I'm Ellie, an IT Systems Administrator, react developer, and python enthusiast with 10 years of experience in the industry. Though the majority of my background is in IT administration, I developed a love for programming, and am striving to make it my career. Aside from tech, I also have a strong passion for music and music production, and spend the majority of my non tech time on that. I'm actively working on projects to meld my 2 loves together.
 
 
 #### 🌱 Things I am currently working on: 
