@@ -18,6 +18,6 @@ Welcome to my Github page! I'm Ellie, an IT Systems Administrator, react develop
 - Coding at least 4 hours a day
 - Working on music 
 
-<img width="50%" align="right" src=![biohackerellie's Stats](https://github-readme-stats.vercel.app/api?username=biohackerellie&theme=cobalt&show_icons=true&hide_border=false&count_private=true) />
-<img width="50%" align="left" src=![biohackerellie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biohackerellie&theme=cobalt&show_icons=true&hide_border=false&layout=compact) />
+![biohackerellie's Stats](https://github-readme-stats.vercel.app/api?username=biohackerellie&theme=cobalt&show_icons=true&hide_border=false&count_private=true) 
+![biohackerellie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biohackerellie&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
 
