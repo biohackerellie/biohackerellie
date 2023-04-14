@@ -20,7 +20,7 @@ Welcome to my Github page! I'm Ellie, an IT Systems Administrator, react develop
 
 #### 🖥️: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src=![ellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=biohackerellie&show_icons=true&theme=radical) />
+<img width="50%" align="right" src=![ellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=biohackerellie&show_icons=true&theme=radical) />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
