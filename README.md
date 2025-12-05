@@ -5,9 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ellie-kerns-ab1328a0/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ellie@epklabs.com)
 
-I make stuff
+I will soon begin migrating my repos off of github due to Microsofts terrible business practices, using our code to churn AI slop. [(https://git.epklabs.com)]
  
-
-![biohackerellie's Stats](https://github-readme-stats.vercel.app/api?username=biohackerellie&theme=cobalt&show_icons=true&hide_border=false&count_private=true) 
-![biohackerellie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biohackerellie&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
+<img src="https://myreadme.vercel.app/api/embed/biohackerellie?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
